@@ -3,7 +3,7 @@ package conditionals;
 
 public class Conditionals {
     public static void main(String args[]) {
-        // simple if statement
+        // ================================= simple if statement =================================
         // Let's take an example of an adult site where 18 or greater aged people access
         // whole less than less than eightteen but grater than fiften can access a few
         // content
@@ -15,7 +15,7 @@ public class Conditionals {
         if (age >= 18) {
             System.out.println("You Can Access This Website");
         }
-        // if with else
+        // ================================= if with else =================================
         if (age >= 18) {
             System.out.println("You Can Access The Website");
         } else {
@@ -30,6 +30,7 @@ public class Conditionals {
             System.out.println("Hey You Are To Small Too Access This Website");
         }
 
+        // ================================= if ,else if ,else =================================
         // lets say we want to check if this person male or female if the person is greater 18 or male then we want to give them access
         // and as 15 aged group is accepting male and female both
         if(age>=18 && gender == "male" ){

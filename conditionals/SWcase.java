@@ -2,6 +2,7 @@ package conditionals;
 
 public class SWcase {
     public static void main(String args[]) {
+        // ================================= switch case =================================
         // if a single value matters to multiple cases then we use switch case
         int day = 89;
 
