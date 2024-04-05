@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasicOOP",
+            "request": "launch",
+            "mainClass": "OOP.BasicOOP",
+            "projectName": "java_3ff402cd"
+        },
+        {
+            "type": "java",
+            "name": "var_ables$Simple",
+            "request": "launch",
+            "mainClass": "var_ables$Simple",
+            "projectName": "java_3ff402cd"
+        },
+        {
+            "type": "java",
             "name": "Intial",
             "request": "launch",
             "mainClass": "Arrays.Intial",
