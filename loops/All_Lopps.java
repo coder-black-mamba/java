@@ -1,6 +1,6 @@
 package loops;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class All_Lopps {
     public static void main(String args[]) {

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "All_Lopps",
+            "request": "launch",
+            "mainClass": "loops.All_Lopps",
+            "projectName": "java_3ff402cd"
+        },
+        {
+            "type": "java",
+            "name": "Homework_pattern",
+            "request": "launch",
+            "mainClass": "Pattern.Homework_pattern",
+            "projectName": "java_3ff402cd"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_3ff402cd"
+        },
+        {
+            "type": "java",
             "name": "BasicOOP",
             "request": "launch",
             "mainClass": "OOP.BasicOOP",

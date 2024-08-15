@@ -7,3 +7,5 @@
   <li>Conditionals : - [x]</li>
   <li>Loops (while , do while , for) : - [x]</li>
 </ul>
+
+- 3:48 array
